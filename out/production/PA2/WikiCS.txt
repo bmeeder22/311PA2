@@ -245,3 +245,5 @@
 /wiki/Test_(assessment) /wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition
 /wiki/Test_(assessment) /wiki/Addison-Wesley
 /wiki/Test_(assessment) /wiki/Diane_Ravitch
+/wiki/Test_(assessment) /wiki/Main_Page
+/wiki/Test_(assessment) /wiki/Main_Page

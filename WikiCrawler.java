@@ -50,15 +50,7 @@ public class WikiCrawler {
     public void crawl() {
         bfsQueue.add(seedUrl);
         int processed = 0;
-
-        PrintWriter writer = null;
-
-        try{
-            writer = new PrintWriter(fileName, "UTF-8");
-            writer.println(max);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        PrintWriter writer = initializePrintWriter();
 
         while(!bfsQueue.isEmpty()) {
             if(processed>=max) break;
@@ -71,8 +63,7 @@ public class WikiCrawler {
             ArrayList<String> toRemove = new ArrayList<>();
 
             for (String s: links) {
-                if(visited.contains(s))
-                    toRemove.add(s);
+                if(visited.contains(s)) toRemove.add(s);
                 else {
                     bfsQueue.add(s);
                     writer.println(currentPage + " " + s);
@@ -82,6 +73,18 @@ public class WikiCrawler {
             links.removeAll(toRemove);
         }
         writer.close();
+    }
+
+    private PrintWriter initializePrintWriter() {
+        PrintWriter writer = null;
+        try{
+            writer = new PrintWriter(fileName, "UTF-8");
+            writer.println(max);
+            return writer;
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return writer;
     }
 
     private String getHTML(String urlToRead) {
@@ -105,7 +108,7 @@ public class WikiCrawler {
     }
 
     public static void main(String args[]) throws Exception {
-        WikiCrawler crawler = new WikiCrawler("/wiki/test", 2, "WikiCS.txt");
+        WikiCrawler crawler = new WikiCrawler("/wiki/test", 5, "WikiCS.txt");
         crawler.crawl();
     }
 }
