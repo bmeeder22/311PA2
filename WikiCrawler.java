@@ -1,14 +1,22 @@
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.net.*;
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.Queue;
+import java.io.*;
 
 public class WikiCrawler {
     private String seedUrl;
     private int max;
     private String fileName;
 
-    WikiCrawler(String seedUrl, int max, String fileName) {
+    private final String BASE_URL = "https://en.wikipedia.org";
+
+    Queue<String> bfsQueue = new ArrayDeque<>();
+    ArrayList<String> visited = new ArrayList<>();
+
+    WikiCrawler(String seedUrl, int max, String fileName) throws Exception {
+        if(!isValidURL(seedUrl)) throw new Exception("Invalid Seed URL");
         this.seedUrl = seedUrl;
         this.max = max;
         this.fileName = fileName;
@@ -40,22 +48,64 @@ public class WikiCrawler {
     }
 
     public void crawl() {
+        bfsQueue.add(seedUrl);
+        int processed = 0;
 
+        PrintWriter writer = null;
+
+        try{
+            writer = new PrintWriter(fileName, "UTF-8");
+            writer.println(max);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        while(!bfsQueue.isEmpty()) {
+            if(processed>=max) break;
+            processed++;
+            String currentPage = bfsQueue.poll();
+            visited.add(currentPage);
+            String html = getHTML(currentPage);
+
+            ArrayList<String> links = extractLinks(html);
+            ArrayList<String> toRemove = new ArrayList<>();
+
+            for (String s: links) {
+                if(visited.contains(s))
+                    toRemove.add(s);
+                else {
+                    bfsQueue.add(s);
+                    writer.println(currentPage + " " + s);
+                    writer.flush();
+                }
+            }
+            links.removeAll(toRemove);
+        }
+        writer.close();
     }
 
-    public static void main(String args[]) throws FileNotFoundException {
-        WikiCrawler crawler = new WikiCrawler("test", 1, "test");
-        System.out.println(crawler.isValidURL("/wiki/XXXX")); //True
-        System.out.println(crawler.isValidURL("/wiki/test")); //True
-        System.out.println(crawler.isValidURL("/wiki/test#test")); //False
-        System.out.println(crawler.isValidURL("/wiki/test:test")); //False
-        System.out.println(crawler.isValidURL("/hello/XXXX")); //False
-        System.out.println(crawler.isValidURL("/test")); //False
-        System.out.println(crawler.isValidURL("/wiki")); //False
-        System.out.println(crawler.isValidURL("/wiki/")); //False
+    private String getHTML(String urlToRead) {
+        try {
+            StringBuilder result = new StringBuilder();
+            URL url = new URL(BASE_URL + urlToRead);
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("GET");
+            BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+            String line;
+            while ((line = rd.readLine()) != null) {
+                result.append(line);
+            }
+            rd.close();
+            return result.toString();
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
 
-        System.out.println();
-        String content = new Scanner(new File("sample.txt")).useDelimiter("\\Z").next();
-        System.out.println(crawler.extractLinks(content));
+    public static void main(String args[]) throws Exception {
+        WikiCrawler crawler = new WikiCrawler("/wiki/test", 2, "WikiCS.txt");
+        crawler.crawl();
     }
 }

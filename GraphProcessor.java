@@ -1,11 +1,13 @@
 import java.util.ArrayList;
 
 public class GraphProcessor {
-    GraphProcessor(String graphData) {
+    private int size;
 
+    GraphProcessor(String graphData) {
+        size = 0;
     }
 
-    public int outDegree(String v) {
+    public int outDegree(String page) {
         return 0;
     }
 
@@ -22,7 +24,7 @@ public class GraphProcessor {
     }
 
     public int numComponents() {
-        return 0;
+        return size;
     }
 
     public ArrayList<String> bfsPath(String u, String v) {
