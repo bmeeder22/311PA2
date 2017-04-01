@@ -9,7 +9,7 @@ public class WikiCrawler {
     private int max;
     private String fileName;
 
-    private final String BASE_URL = "https://en.wikipedia.org";
+    private static final String BASE_URL = "https://en.wikipedia.org";
 
     Queue<String> bfsQueue = new ArrayDeque<>();
     ArrayList<String> visited = new ArrayList<>();
@@ -59,17 +59,14 @@ public class WikiCrawler {
             String html = getHTML(currentPage);
 
             ArrayList<String> links = extractLinks(html);
-            ArrayList<String> toRemove = new ArrayList<>();
 
             for (String s: links) {
-                if(visited.contains(s)) toRemove.add(s);
-                else {
+                if(!visited.contains(s)) {
                     bfsQueue.add(s);
                     writer.println(currentPage + " " + s);
                     writer.flush();
                 }
             }
-            links.removeAll(toRemove);
         }
         writer.close();
     }
