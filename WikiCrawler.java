@@ -1,7 +1,7 @@
-import java.net.*;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Queue;
+import java.net.*;
 import java.io.*;
 
 public class WikiCrawler {
@@ -21,7 +21,7 @@ public class WikiCrawler {
         this.fileName = fileName;
     }
 
-    public ArrayList<String> extractLinks(String doc) {
+    public ArrayList<String> extractLinks(String doc, String currentPage) {
         doc = getFirstParagraph(doc);
         String[] list = doc.split("\"/wiki/");
         ArrayList<String> out = new ArrayList<>();
@@ -29,7 +29,7 @@ public class WikiCrawler {
 
         for(String l: list) {
             String toAdd = "/wiki/" + l.substring(0, l.indexOf("\""));
-            if(isValidURL(toAdd)) out.add(toAdd);
+            if(isValidURL(toAdd) && !out.contains(toAdd) && !currentPage.equals(toAdd)) out.add(toAdd);
         }
         return out;
     }
@@ -48,21 +48,27 @@ public class WikiCrawler {
 
     public void crawl() {
         bfsQueue.add(seedUrl);
-        int processed = 0;
+        int processed = 1;
         PrintWriter writer = initializePrintWriter();
 
         while(!bfsQueue.isEmpty()) {
-            if(processed>=max) break;
-            processed++;
             String currentPage = bfsQueue.poll();
             visited.add(currentPage);
             String html = getHTML(currentPage);
 
-            ArrayList<String> links = extractLinks(html);
+            ArrayList<String> links = extractLinks(html, currentPage);
 
             for (String s: links) {
                 if(!visited.contains(s)) {
-                    bfsQueue.add(s);
+                    if (processed < max) {
+                        processed++;
+                        visited.add(s);
+                        bfsQueue.add(s);
+                        writer.println(currentPage + " " + s);
+                        writer.flush();
+                    }
+                }
+                else {
                     writer.println(currentPage + " " + s);
                     writer.flush();
                 }
@@ -104,7 +110,7 @@ public class WikiCrawler {
     }
 
     public static void main(String args[]) throws Exception {
-        WikiCrawler crawler = new WikiCrawler("/wiki/test", 5, "WikiCS.txt");
+        WikiCrawler crawler = new WikiCrawler("/wiki/Computer Science", 500, "WikiCS.txt");
         crawler.crawl();
     }
 }
