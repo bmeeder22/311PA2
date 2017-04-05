@@ -7,9 +7,12 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Stack;
 
+/**
+ * @author Benjamin Meeder
+ * @author Adam De Gala
+ */
 public class GraphProcessor 
 {
-	//Class for vertex
 	private class Vertex
 	{
 		public String name;
@@ -21,27 +24,24 @@ public class GraphProcessor
 		}
 		public void add(String add)
 		{
-			//Question do have to consider multiple out edges to the same vertex
 			outEdges.add(add);
 		}
 	}
 	
-	//Class for graph, uses adjacency list. 
 	private class Graph
 	{
 		public HashMap<String, Vertex> GraphList = new HashMap<>();
-		//public Vertex[] sccPos; //public access of vertexs
 		public int size;
+
 		public Graph(int size)
 		{
-			//graphList = new Vertex[size];
 			this.size = size;
 		}
+
 		public void add(String start, String end)
 		{
-			//System.out.println("added " +  start +" " + end);
 			if(GraphList.containsKey(start))
-				GraphList.get(start).add(end);//Get the start vertex and add end to its list of edge
+				GraphList.get(start).add(end);
 			else
 			{
 				//We need to a new vertex
@@ -52,19 +52,19 @@ public class GraphProcessor
 				GraphList.put(end,new Vertex(end));
 
 		}
+
 		public void addSCC(String start, String end)
 		{
-			//System.out.println("added " +  start +" " + end);
 			if(GraphList.containsKey(start))
-				GraphList.get(start).add(end);//Get the start vertex and add end to its list of edge
+				GraphList.get(start).add(end); //Get the start vertex and add end to its list of edge
 			else
 			{
-				//We need to a new vertex
 				GraphList.put(start, new Vertex(start));
 				GraphList.get(start).add(end);
 			}
 
 		}
+
 		public int outDegree(String v)
 		{
 			if(GraphList.containsKey(v))
@@ -72,8 +72,8 @@ public class GraphProcessor
 			else 
 				return -1;
 		}
-		public void DFSprint(String name, String sccKey)
-		{
+
+		public void DFSprint(String name, String sccKey) {
 			//Find Correct Vertex
 			Vertex v = GraphList.get(name);
 			System.out.print(v.name + " ");
@@ -86,13 +86,13 @@ public class GraphProcessor
 					DFSprint(f.name, sccKey);
 			}
 		}
-		public boolean beenVisited(String name)
-		{
+
+		public boolean beenVisited(String name) {
 			Vertex v = GraphList.get(name);
 			return v.visited;
 		}
-		public void printGraph()
-		{
+
+		public void printGraph() {
 			Set<String> keys = GraphList.keySet();
 			for(String e : keys)
 			{
@@ -108,17 +108,14 @@ public class GraphProcessor
 		}
 
 	}
-	
-	
+
 	Graph graph;
 	Graph grGraph;
 	Graph sccGraph;
 	public GraphProcessor (String graphData)
 	{
 		//Builds Graph
-		
-		//Question: how are we handling file exceptions
-		try
+        try
 		{
 			File file = new File(graphData);
 			Scanner in = new Scanner(file);
@@ -159,6 +156,19 @@ public class GraphProcessor
 		}
 		return false;
 	}
+
+    public ArrayList<String> componentVertices(String v) {
+        ArrayList<String> out = new ArrayList<>();
+        Set<String> keys = sccGraph.GraphList.keySet();
+        for(String e : keys)
+        {
+            Vertex vertex = sccGraph.GraphList.get(e);
+            if(vertex.outEdges.contains(v))
+                out.addAll(vertex.outEdges);
+        }
+        return out;
+    }
+
 	public int largestComponents()
 	{
 		int max = 0;
@@ -287,17 +297,17 @@ public class GraphProcessor
 	public String generateReport() {
         int max = 0;
         String maxString = "";
-        Set<String> keys = sccGraph.GraphList.keySet();
+        Set<String> keys = graph.GraphList.keySet();
         for(String e : keys)
         {
             int current = outDegree(e);
-            if(current > max) {
+			if(current > max) {
                 max = current;
                 maxString = e;
             }
         }
         String out = "Highest out degree: " + maxString + "\n";
-        out += "Highest out degree number: " + Integer.toString(max) + "\n";
+        out += Integer.toString(max) + '\n';
         out += "Number of components of the graph: " + Integer.toString(numComponents()) + "\n";
         out += "Size of the largest component: " + Integer.toString(largestComponents()) + "\n";
         out += "";

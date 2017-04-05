@@ -1,9 +1,11 @@
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Queue;
+import java.util.*;
 import java.net.*;
 import java.io.*;
 
+/**
+ * @author Benjamin Meeder
+ * @author Adam De Gala
+ */
 public class WikiCrawler {
     private String seedUrl;
     private int max;
@@ -12,7 +14,7 @@ public class WikiCrawler {
     private static final String BASE_URL = "https://en.wikipedia.org";
 
     Queue<String> bfsQueue = new ArrayDeque<>();
-    ArrayList<String> visited = new ArrayList<>();
+    HashMap<String, String> visited = new HashMap<>();
 
     WikiCrawler(String seedUrl, int max, String fileName) throws Exception {
         if(!isValidURL(seedUrl)) throw new Exception("Invalid Seed URL");
@@ -53,16 +55,16 @@ public class WikiCrawler {
 
         while(!bfsQueue.isEmpty()) {
             String currentPage = bfsQueue.poll();
-            visited.add(currentPage);
+            visited.put(currentPage,currentPage);
             String html = getHTML(currentPage);
 
             ArrayList<String> links = extractLinks(html, currentPage);
 
             for (String s: links) {
-                if(!visited.contains(s)) {
+                if(!visited.containsKey(s)) {
                     if (processed < max) {
                         processed++;
-                        visited.add(s);
+                        visited.put(s,s);
                         bfsQueue.add(s);
                         writer.println(currentPage + " " + s);
                         writer.flush();
@@ -110,8 +112,9 @@ public class WikiCrawler {
     }
 
     public static void main(String args[]) throws Exception {
-        //WikiCrawler crawler = new WikiCrawler("/wiki/Computer_Science", 500, "WikiCS.txt");
-        //crawler.crawl();
+//        WikiCrawler crawler = new WikiCrawler("/wiki/Computer_Science", 500, "WikiCS.txt");
+//        crawler.crawl();
+//        GraphProcessor processor = new GraphProcessor("WikiCS.txt");
         GraphProcessor processor = new GraphProcessor("WikiCS.txt");
         System.out.println(processor.generateReport());
     }
