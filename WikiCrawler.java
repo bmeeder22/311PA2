@@ -11,7 +11,7 @@ public class WikiCrawler {
     private int max;
     private String fileName;
 
-    private static final String BASE_URL = "https://en.wikipedia.org";
+    static final String BASE_URL = "https://en.wikipedia.org";
 
     Queue<String> bfsQueue = new ArrayDeque<>();
     HashMap<String, String> visited = new HashMap<>();
@@ -64,6 +64,10 @@ public class WikiCrawler {
                 if(!visited.containsKey(s)) {
                     if (processed < max) {
                         processed++;
+                        if(processed%100 == 0) {
+                            try {Thread.sleep(3000);}
+                            catch (InterruptedException e) {e.printStackTrace();}
+                        }
                         visited.put(s,s);
                         bfsQueue.add(s);
                         writer.println(currentPage + " " + s);
@@ -112,10 +116,9 @@ public class WikiCrawler {
     }
 
     public static void main(String args[]) throws Exception {
-//        WikiCrawler crawler = new WikiCrawler("/wiki/Computer_Science", 500, "WikiCS.txt");
-//        crawler.crawl();
+        WikiCrawler crawler = new WikiCrawler("/wiki/Computer_Science", 500, "WikiCS.txt");
+        crawler.crawl();
 //        GraphProcessor processor = new GraphProcessor("WikiCS.txt");
-        GraphProcessor processor = new GraphProcessor("WikiCS.txt");
-        System.out.println(processor.generateReport());
+//        System.out.println(processor.generateReport());
     }
 }
