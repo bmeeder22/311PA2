@@ -117,7 +117,7 @@ public class GraphProcessor
 	{
 		//Builds Graph
 		
-		//Question: how are we handeling file exceptions
+		//Question: how are we handling file exceptions
 		try
 		{
 			File file = new File(graphData);
@@ -142,8 +142,7 @@ public class GraphProcessor
 		}
 		computeSCCGraph();
 	}
-	
-	//Returns out degree of V. 
+
 	public int outDegree(String v)
 	{
 		return graph.outDegree(v);
@@ -271,7 +270,7 @@ public class GraphProcessor
 		//System.out.println("Size of stack is " + finishTimes.size());
 	}
 
-	//Compute GR (Fliped directions)
+	//Compute GR (Flipped directions)
 	private void computeGR()
 	{
 		Set<String> keys = graph.GraphList.keySet();
@@ -283,10 +282,22 @@ public class GraphProcessor
 				grGraph.add(f, v.name);
 			}
 		}
-	}	
+	}
 	
 	public String generateReport() {
-        String out = "Highest out degree: " + "" + "\n";
+        int max = 0;
+        String maxString = "";
+        Set<String> keys = sccGraph.GraphList.keySet();
+        for(String e : keys)
+        {
+            int current = outDegree(e);
+            if(current > max) {
+                max = current;
+                maxString = e;
+            }
+        }
+        String out = "Highest out degree: " + maxString + "\n";
+        out += "Highest out degree number: " + Integer.toString(max) + "\n";
         out += "Number of components of the graph: " + Integer.toString(numComponents()) + "\n";
         out += "Size of the largest component: " + Integer.toString(largestComponents()) + "\n";
         out += "";
