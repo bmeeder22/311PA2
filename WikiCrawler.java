@@ -110,7 +110,9 @@ public class WikiCrawler {
     }
 
     public static void main(String args[]) throws Exception {
-        WikiCrawler crawler = new WikiCrawler("/wiki/Computer Science", 500, "WikiCS.txt");
-        crawler.crawl();
+        //WikiCrawler crawler = new WikiCrawler("/wiki/Computer_Science", 500, "WikiCS.txt");
+        //crawler.crawl();
+        GraphProcessor processor = new GraphProcessor("WikiCS.txt");
+        System.out.println(processor.generateReport());
     }
 }

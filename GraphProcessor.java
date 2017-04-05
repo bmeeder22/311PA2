@@ -7,14 +7,14 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Stack;
 
-public class GraphProccessor 
+public class GraphProcessor 
 {
 	//Class for vertex
 	private class Vertex
 	{
 		public String name;
-		boolean visited = false; //All vertexs start out unvistied. 
-		ArrayList<String> outEdges = new ArrayList<String>();    //Question: should we have an ArrayList of vertex or strings?
+		boolean visited = false; //All vertices start out not visited. 
+		ArrayList<String> outEdges = new ArrayList<>();
 		protected Vertex(String name)
 		{
 			this.name = name;
@@ -29,7 +29,7 @@ public class GraphProccessor
 	//Class for graph, uses adjacency list. 
 	private class Graph
 	{
-		public HashMap<String, Vertex> GraphList = new HashMap<String, Vertex>();
+		public HashMap<String, Vertex> GraphList = new HashMap<>();
 		//public Vertex[] sccPos; //public access of vertexs
 		public int size;
 		public Graph(int size)
@@ -82,7 +82,7 @@ public class GraphProccessor
 			for(String e : v.outEdges)
 			{
 				Vertex f = GraphList.get(e);
-				if(f.visited == false)
+				if(!f.visited)
 					DFSprint(f.name, sccKey);
 			}
 		}
@@ -113,7 +113,7 @@ public class GraphProccessor
 	Graph graph;
 	Graph grGraph;
 	Graph sccGraph;
-	public GraphProccessor (String graphData)
+	public GraphProcessor (String graphData)
 	{
 		//Builds Graph
 		
@@ -172,7 +172,7 @@ public class GraphProccessor
 		}
 		return max;
 	}
-	public int numComponets()
+	public int numComponents()
 	{
 		return sccGraph.GraphList.size();	
 	}
@@ -181,13 +181,13 @@ public class GraphProccessor
 		Set<String> keys = graph.GraphList.keySet();
 		for(String e : keys)
 		{
-			graph.GraphList.get(e).visited = false; //Make sure everynode starts as unchecked. 
+			graph.GraphList.get(e).visited = false; //Make sure every node starts as unchecked.
 		}
 
 		
-		LinkedList<pathHolder> queue = new LinkedList<pathHolder>();
+		LinkedList<pathHolder> queue = new LinkedList<>();
 		graph.GraphList.get(u).visited = true;
-		ArrayList<String> path = new ArrayList<String>();
+		ArrayList<String> path = new ArrayList<>();
 		path.add(u);
 		queue.add(new pathHolder(u,path));
 		
@@ -197,7 +197,7 @@ public class GraphProccessor
 			Vertex vertex = graph.GraphList.get(p.name);
 			for(String e : vertex.outEdges)
 			{
-				ArrayList<String> newPath = new ArrayList<String>();
+				ArrayList<String> newPath = new ArrayList<>();
 				newPath.addAll(p.path);
 				newPath.add(e);
 				if(e.equals(v))
@@ -207,8 +207,7 @@ public class GraphProccessor
 				
 			}
 		}
-		ArrayList<String> dummy = new ArrayList<String>();
-		return dummy;
+		return new ArrayList<>();
 	}
 	
 	private class pathHolder
@@ -221,24 +220,17 @@ public class GraphProccessor
 		public String name;
 		public ArrayList<String> path;
 	}
-	public void tester()
-	{
-		System.out.println("Info about SCC ");
-		System.out.println("Number of SCC's " +  numComponets());
-		System.out.println("Largest SCC is "  + largestComponents());
-		
-	}
 	
 	
 	private void computeSCCGraph()
 	{
-		//It is built into the vertex class to be unvisted at start
+		//It is built into the vertex class to be unvisited at start
 		//Get Finishes times. 
-		Stack<Vertex> finishTimes = new Stack<Vertex>(); //Question: Can we use this Stack 
+		Stack<Vertex> finishTimes = new Stack<>(); //Question: Can we use this Stack
 		Set<String> keys = graph.GraphList.keySet();
 		for(String e : keys)
 		{
-			if(graph.beenVisited(e) == false)
+			if(!graph.beenVisited(e))
 			{
 				DFSordering(e, finishTimes);
 			}
@@ -254,7 +246,7 @@ public class GraphProccessor
 		while(finishTimes.size() != 0)
 		{
 			Vertex v = finishTimes.pop();//Find corresponding vertex in GR
-			if(grGraph.beenVisited(v.name) == false)
+			if(!grGraph.beenVisited(v.name))
 			{
 				grGraph.DFSprint(v.name, v.name);
 				System.out.println();
@@ -271,7 +263,7 @@ public class GraphProccessor
 		{
 			
 			Vertex f = graph.GraphList.get(e);
-			if(f.visited == false)
+			if(!f.visited)
 				DFSordering(f.name, finishTimes);
 
 		}
@@ -293,4 +285,12 @@ public class GraphProccessor
 		}
 	}	
 	
+	public String generateReport() {
+        String out = "Highest out degree: " + "" + "\n";
+        out += "Number of components of the graph: " + Integer.toString(numComponents()) + "\n";
+        out += "Size of the largest component: " + Integer.toString(largestComponents()) + "\n";
+        out += "";
+
+		return out;
+	}
 }

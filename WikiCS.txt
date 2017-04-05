@@ -1,503 +1,503 @@
 500
-/wiki/Computer Science /wiki/Computer
-/wiki/Computer Science /wiki/Computation
-/wiki/Computer Science /wiki/Procedure_(computer_science)
-/wiki/Computer Science /wiki/Algorithm
-/wiki/Computer Science /wiki/Information
-/wiki/Computer Science /wiki/Computer_scientist
-/wiki/Computer Science /wiki/Practical_disciplines
-/wiki/Computer Science /wiki/Computational_complexity_theory
-/wiki/Computer Science /wiki/Computational_problem
-/wiki/Computer Science /wiki/Computer_graphics_(computer_science)
-/wiki/Computer Science /wiki/Programming_language_theory
-/wiki/Computer Science /wiki/Computer_programming
-/wiki/Computer Science /wiki/Programming_language
-/wiki/Computer Science /wiki/Complex_systems
-/wiki/Computer Science /wiki/Human%E2%80%93computer_interaction
-/wiki/Computer Science /wiki/Computer_accessibility
-/wiki/Computer Science /wiki/Human
-/wiki/Computer Science /wiki/History_of_computer_science
-/wiki/Computer Science /wiki/History_of_computing
-/wiki/Computer Science /wiki/Computer_hardware
-/wiki/Computer Science /wiki/History_of_computing_hardware
-/wiki/Computer Science /wiki/History_of_computing_hardware_(1960s%E2%80%93present)
-/wiki/Computer Science /wiki/History_of_computer_hardware_in_Soviet_Bloc_countries
-/wiki/Computer Science /wiki/Software
-/wiki/Computer Science /wiki/History_of_software
-/wiki/Computer Science /wiki/History_of_Unix
-/wiki/Computer Science /wiki/History_of_free_and_open-source_software
-/wiki/Computer Science /wiki/History_of_artificial_intelligence
-/wiki/Computer Science /wiki/History_of_compiler_construction
-/wiki/Computer Science /wiki/History_of_operating_systems
-/wiki/Computer Science /wiki/History_of_programming_languages
-/wiki/Computer Science /wiki/List_of_pioneers_in_computer_science
-/wiki/Computer Science /wiki/History_of_software_engineering
-/wiki/Computer Science /wiki/History_of_the_graphical_user_interface
-/wiki/Computer Science /wiki/History_of_the_Internet
-/wiki/Computer Science /wiki/History_of_personal_computers
-/wiki/Computer Science /wiki/History_of_laptops
-/wiki/Computer Science /wiki/History_of_video_games
-/wiki/Computer Science /wiki/History_of_the_World_Wide_Web
-/wiki/Computer Science /wiki/Timeline_of_computing
-/wiki/Computer Science /wiki/Timeline_of_computing_hardware_2400_BC%E2%80%931949
-/wiki/Computer Science /wiki/Timeline_of_computing_1950%E2%80%9379
-/wiki/Computer Science /wiki/Timeline_of_computing_1980%E2%80%9389
-/wiki/Computer Science /wiki/Timeline_of_computing_1990%E2%80%9399
-/wiki/Computer Science /wiki/Timeline_of_computing_2000%E2%80%9309
-/wiki/Computer Science /wiki/Timeline_of_computing_2010%E2%80%9319
-/wiki/Computer Science /wiki/Charles_Babbage
-/wiki/Computer Science /wiki/Ada_Lovelace
-/wiki/Computer Science /wiki/Digital_computer
-/wiki/Computer Science /wiki/Abacus
-/wiki/Computer Science /wiki/Wilhelm_Schickard
-/wiki/Computer Science /wiki/Mechanical_calculator
-/wiki/Computer Science /wiki/Gottfried_Leibniz
-/wiki/Computer Science /wiki/Stepped_Reckoner
-/wiki/Computer Science /wiki/Charles_Xavier_Thomas
-/wiki/Computer Science /wiki/Arithmometer
-/wiki/Computer Science /wiki/Difference_Engine
-/wiki/Computer Science /wiki/Analytical_Engine
-/wiki/Computer Science /wiki/Jacquard_loom
-/wiki/Computer Science /wiki/Bernoulli_number
-/wiki/Computer Science /wiki/Herman_Hollerith
-/wiki/Computer Science /wiki/Tabulating_machine
-/wiki/Computer Science /wiki/Punched_card
-/wiki/Computer Science /wiki/IBM
-/wiki/Computer Science /wiki/Howard_H._Aiken
-/wiki/Computer Science /wiki/Harvard_Mark_I
-/wiki/Computer Science /wiki/Computing
-/wiki/Computer Science /wiki/Cambridge_Diploma_in_Computer_Science
-/wiki/Computer Science /wiki/University_of_Cambridge
-/wiki/Computer Science /wiki/Cambridge_Computer_Lab
-/wiki/Computer Science /wiki/Purdue_University
-/wiki/Computer Science /wiki/Computing_technology
-/wiki/Computer Science /wiki/History_of_informatics
-/wiki/Computer Science /wiki/Germany
-/wiki/Computer Science /wiki/Enigma_machine
-/wiki/Computer Science /wiki/World_War_II
-/wiki/Computer Science /wiki/Bletchley_Park
-/wiki/Computer Science /wiki/Science
-/wiki/Computer Science /wiki/Society
-/wiki/Computer Science /wiki/Electronics
-/wiki/Computer Science /wiki/Information_Age
-/wiki/Computer Science /wiki/Information_revolution
-/wiki/Computer Science /wiki/Industrial_Revolution
-/wiki/Computer Science /wiki/Neolithic_Revolution
-/wiki/Computer Science /wiki/Digital_Revolution
-/wiki/Computer Science /wiki/Internet
-/wiki/Computer Science /wiki/Computability
-/wiki/Computer Science /wiki/Undecidable_problem
-/wiki/Computer Science /wiki/Cryptography
-/wiki/Computer Science /wiki/Cryptanalysis_of_the_Enigma
-/wiki/Computer Science /wiki/Computational_science
-/wiki/Computer Science /wiki/Human_Genome_Project
-/wiki/Computer Science /wiki/Distributed_computing
-/wiki/Computer Science /wiki/Folding@home
-/wiki/Computer Science /wiki/Protein_folding
-/wiki/Computer Science /wiki/Algorithmic_trading
-/wiki/Computer Science /wiki/Economic_efficiency
-/wiki/Computer Science /wiki/Market_liquidity
-/wiki/Computer Science /wiki/Artificial_intelligence
-/wiki/Computer Science /wiki/Machine_learning
-/wiki/Computer Science /wiki/Statistics
-/wiki/Computer Science /wiki/Numerical_analysis
-/wiki/Computer Science /wiki/Volatility_(finance)
-/wiki/Computer Science /wiki/Computer_graphics
-/wiki/Computer Science /wiki/Computer-generated_imagery
-/wiki/Computer Science /wiki/Entertainment
-/wiki/Computer Science /wiki/Television
-/wiki/Computer Science /wiki/Filmmaking
-/wiki/Computer Science /wiki/Advertising
-/wiki/Computer Science /wiki/Animation
-/wiki/Computer Science /wiki/Video_game
-/wiki/Computer Science /wiki/Digital_camera
-/wiki/Computer Science /wiki/Video_editing
-/wiki/Computer Science /wiki/Video_post-processing
-/wiki/Computer Science /wiki/Simulation
-/wiki/Computer Science /wiki/Fluid_dynamics
-/wiki/Computer Science /wiki/SPICE
-/wiki/Computer Science /wiki/Integrated_circuit
-/wiki/Computer Science /wiki/Robotic_vacuum_cleaner
-/wiki/Computer Science /wiki/Legged_Squad_Support_System
-/wiki/Computer Science /wiki/Human-Computer_Interaction
-/wiki/Computer Science /wiki/Direct_manipulation
-/wiki/Computer Science /wiki/Touchscreen
-/wiki/Computer Science /wiki/Virtual_reality
-/wiki/Computer Science /wiki/Communications_of_the_ACM
-/wiki/Computer Science /wiki/Harvard_Business_School
-/wiki/Computer Science /wiki/Management_science
-/wiki/Computer Science /wiki/George_Forsythe
-/wiki/Computer Science /wiki/Peter_Naur
-/wiki/Computer Science /wiki/Data_science
-/wiki/Computer Science /wiki/Epistemology
-/wiki/Computer Science /wiki/Slavic_languages
-/wiki/Computer Science /wiki/Hungarian_language
-/wiki/Computer Science /wiki/Greek_language
-/wiki/Computer Science /wiki/Informatics
-/wiki/Computer Science /wiki/Edsger_W._Dijkstra
-/wiki/Computer Science /wiki/Computer_engineering
-/wiki/Computer Science /wiki/Computer_system
-/wiki/Computer Science /wiki/Information_technology
-/wiki/Computer Science /wiki/Information_system
-/wiki/Computer Science /wiki/Philosophy
-/wiki/Computer Science /wiki/Cognitive_science
-/wiki/Computer Science /wiki/Computational_linguistics
-/wiki/Computer Science /wiki/Mathematics
-/wiki/Computer Science /wiki/Physics
-/wiki/Computer Science /wiki/Biology
-/wiki/Computer Science /wiki/Computational_statistics
-/wiki/Computer Science /wiki/Logic
-/wiki/Computer Science /wiki/Kurt_G%C3%B6del
-/wiki/Computer Science /wiki/Alan_Turing
-/wiki/Computer Science /wiki/Mathematical_logic
-/wiki/Computer Science /wiki/Category_theory
-/wiki/Computer Science /wiki/Domain_theory
-/wiki/Computer Science /wiki/Algebra
-/wiki/Computer Science /wiki/Software_engineering
-/wiki/Computer Science /wiki/David_Parnas
-/wiki/Computer Science /wiki/Philosophy_of_computer_science
-/wiki/Computer Science /wiki/Peter_Wegner
-/wiki/Computer Science /wiki/Peter_J._Denning
-/wiki/Computer Science /wiki/Deductive_reasoning
-/wiki/Computer Science /wiki/Engineering
-/wiki/Computer Science /wiki/Natural_science
-/wiki/Computer Science /wiki/Outline_of_computer_science
-/wiki/Computer Science /wiki/CSAB_(professional_organization)
-/wiki/Computer Science /wiki/Association_for_Computing_Machinery
-/wiki/Computer Science /wiki/IEEE_Computer_Society
-/wiki/Computer Science /wiki/Theoretical_computer_science
-/wiki/Computer Science /wiki/Theory_of_computation
-/wiki/Computer Science /wiki/Computability_theory
-/wiki/Computer Science /wiki/Models_of_computation
-/wiki/Computer Science /wiki/P_versus_NP_problem
-/wiki/Computer Science /wiki/Millennium_Prize_Problems
-/wiki/Computer Science /wiki/Automata_theory
-/wiki/Computer Science /wiki/Quantum_computer
-/wiki/Computer Science /wiki/Information_theory
-/wiki/Computer Science /wiki/Coding_theory
-/wiki/Computer Science /wiki/Claude_Shannon
-/wiki/Computer Science /wiki/Signal_processing
-/wiki/Computer Science /wiki/Code
-/wiki/Computer Science /wiki/Data_compression
-/wiki/Computer Science /wiki/Error_detection_and_correction
-/wiki/Computer Science /wiki/Linear_network_coding
-/wiki/Computer Science /wiki/Data_transmission
-/wiki/Computer Science /wiki/Analysis_of_algorithms
-/wiki/Computer Science /wiki/Data_structures
-/wiki/Computer Science /wiki/Combinatorial_optimization
-/wiki/Computer Science /wiki/Computational_geometry
-/wiki/Computer Science /wiki/Linguistics
-/wiki/Computer Science /wiki/Type_theory
-/wiki/Computer Science /wiki/Compiler_construction
-/wiki/Computer Science /wiki/Formal_methods
-/wiki/Computer Science /wiki/Formal_specification
-/wiki/Computer Science /wiki/Formal_verification
-/wiki/Computer Science /wiki/Life-critical_system
-/wiki/Computer Science /wiki/Safety
-/wiki/Computer Science /wiki/Computer_security
-/wiki/Computer Science /wiki/Logic_in_computer_science
-/wiki/Computer Science /wiki/Formal_language
-/wiki/Computer Science /wiki/Program_semantics
-/wiki/Computer Science /wiki/Type_systems
-/wiki/Computer Science /wiki/Algebraic_data_types
-/wiki/Computer Science /wiki/Cybernetics
-/wiki/Computer Science /wiki/Applied_mathematics
-/wiki/Computer Science /wiki/Semiotics
-/wiki/Computer Science /wiki/Electrical_engineering
-/wiki/Computer Science /wiki/Philosophy_of_mind
-/wiki/Computer Science /wiki/Neurophysiology
-/wiki/Computer Science /wiki/Social_intelligence
-/wiki/Computer Science /wiki/Robotics
-/wiki/Computer Science /wiki/Software_development
-/wiki/Computer Science /wiki/Turing_test
-/wiki/Computer Science /wiki/Computer_vision
-/wiki/Computer Science /wiki/Image_processing
-/wiki/Computer Science /wiki/Pattern_recognition
-/wiki/Computer Science /wiki/Data_mining
-/wiki/Computer Science /wiki/Evolutionary_computation
-/wiki/Computer Science /wiki/Knowledge_representation
-/wiki/Computer Science /wiki/Natural_language_processing
-/wiki/Computer Science /wiki/Computer_architecture
-/wiki/Computer Science /wiki/Boolean_algebra
-/wiki/Computer Science /wiki/Microarchitecture
-/wiki/Computer Science /wiki/Multiprocessing
-/wiki/Computer Science /wiki/Ubiquitous_computing
-/wiki/Computer Science /wiki/Systems_architecture
-/wiki/Computer Science /wiki/Operating_system
-/wiki/Computer Science /wiki/Computer_performance
-/wiki/Computer Science /wiki/Throughput
-/wiki/Computer Science /wiki/Response_time_(technology)
-/wiki/Computer Science /wiki/Bottleneck_(software)
-/wiki/Computer Science /wiki/Special_effects
-/wiki/Computer Science /wiki/Video_games
-/wiki/Computer Science /wiki/Scientific_computing
-/wiki/Computer Science /wiki/Scientific_modelling
-/wiki/Computer Science /wiki/Computer_simulation
-/wiki/Computer Science /wiki/Computational_physics
-/wiki/Computer Science /wiki/Computational_chemistry
-/wiki/Computer Science /wiki/Bioinformatics
-/wiki/Computer Science /wiki/Computer_network
-/wiki/Computer Science /wiki/Concurrency_(computer_science)
-/wiki/Computer Science /wiki/Petri_net
-/wiki/Computer Science /wiki/Process_calculus
-/wiki/Computer Science /wiki/Parallel_random-access_machine
-/wiki/Computer Science /wiki/Database
-/wiki/Computer Science /wiki/Database_model
-/wiki/Computer Science /wiki/Query_language
-/wiki/Computer Science /wiki/Human-computer_interaction
-/wiki/Computer Science /wiki/William_J._Rapaport
-/wiki/Computer Science /wiki/Gottfried_Wilhelm_Leibniz
-/wiki/Computer Science /wiki/George_Boole
-/wiki/Computer Science /wiki/Samuel_Morse
-/wiki/Computer Science /wiki/Digital_physics
-/wiki/Computer Science /wiki/Turing_machine
-/wiki/Computer Science /wiki/Corrado_B%C3%B6hm
-/wiki/Computer Science /wiki/Goto
-/wiki/Computer Science /wiki/Structured_programming
-/wiki/Computer Science /wiki/List_of_computer_science_conferences
-/wiki/Computer Science /wiki/Proceedings
-/wiki/Computer Science /wiki/Code.org
-/wiki/Computer Science /wiki/Malaysia
-/wiki/Computer Science /wiki/Guyana
-/wiki/Computer Science /wiki/Academic_genealogy_of_computer_scientists
-/wiki/Computer Science /wiki/Computer_Science_Teachers_Association
-/wiki/Computer Science /wiki/Engineering_informatics
-/wiki/Computer Science /wiki/List_of_academic_computer_science_departments
-/wiki/Computer Science /wiki/List_of_computer_scientists
-/wiki/Computer Science /wiki/List_of_important_publications_in_computer_science
-/wiki/Computer Science /wiki/List_of_unsolved_problems_in_computer_science
-/wiki/Computer Science /wiki/Outline_of_software_engineering
-/wiki/Computer Science /wiki/Technology_transfer_in_computer_science
-/wiki/Computer Science /wiki/Turing_Award
-/wiki/Computer Science /wiki/Steven_Levy
-/wiki/Computer Science /wiki/International_Standard_Book_Number
-/wiki/Computer Science /wiki/David_Kahn_(writer)
-/wiki/Computer Science /wiki/The_Codebreakers
-/wiki/Computer Science /wiki/Hal_Abelson
-/wiki/Computer Science /wiki/Structure_and_Interpretation_of_Computer_Programs
-/wiki/Computer Science /wiki/Digital_object_identifier
-/wiki/Computer Science /wiki/Social_Science_Research_Network
-/wiki/Computer Science /wiki/Donald_Knuth
-/wiki/Computer Science /wiki/Wayback_Machine
-/wiki/Computer Science /wiki/Minds_and_Machines
-/wiki/Computer Science /wiki/CreateSpace
-/wiki/Computer Science /wiki/Zentralblatt_MATH
-/wiki/Computer Science /wiki/Jan_van_Leeuwen
-/wiki/Computer Science /wiki/SIGACT_News
-/wiki/Computer Science /wiki/Anthony_Ralston
-/wiki/Computer Science /wiki/Cambridge_University_Press
-/wiki/Computer Science /wiki/Taylor_%26_Francis
-/wiki/Computer Science /wiki/Brian_Randell
-/wiki/Computer Science /wiki/Association_for_Information_Systems
-/wiki/Computer Science /wiki/Norman_Gibbs
-/wiki/Computer Science /wiki/Allen_Tucker
-/wiki/Computer Science /wiki/DMOZ
-/wiki/Computer Science /wiki/Bertrand_Meyer
-/wiki/Computer Science /wiki/CiteSeerX
-/wiki/Computer Science /wiki/Digital_Bibliography_%26_Library_Project
-/wiki/Computer Science /wiki/Collection_of_Computer_Science_Bibliographies
-/wiki/Computer Science /wiki/Requirements_engineering
-/wiki/Computer Science /wiki/Software_deployment
-/wiki/Computer Science /wiki/Software_design
-/wiki/Computer Science /wiki/Software_maintenance
-/wiki/Computer Science /wiki/Software_testing
-/wiki/Computer Science /wiki/Systems_analysis
-/wiki/Computer Science /wiki/Data_modeling
-/wiki/Computer Science /wiki/Enterprise_architecture
-/wiki/Computer Science /wiki/Functional_specification
-/wiki/Computer Science /wiki/Modeling_language
-/wiki/Computer Science /wiki/Orthogonality_(programming)
-/wiki/Computer Science /wiki/Programming_paradigm
-/wiki/Computer Science /wiki/Software_archaeology
-/wiki/Computer Science /wiki/Software_architecture
-/wiki/Computer Science /wiki/Software_configuration_management
-/wiki/Computer Science /wiki/Software_development_process
-/wiki/Computer Science /wiki/Software_quality
-/wiki/Computer Science /wiki/Software_quality_assurance
-/wiki/Computer Science /wiki/Software_verification_and_validation
-/wiki/Computer Science /wiki/Structured_analysis
-/wiki/Computer Science /wiki/Agile_software_development
-/wiki/Computer Science /wiki/Aspect-oriented_software_development
-/wiki/Computer Science /wiki/Object-oriented_programming
-/wiki/Computer Science /wiki/Ontology_(information_science)
-/wiki/Computer Science /wiki/Service-oriented_architecture
-/wiki/Computer Science /wiki/Systems_development_life_cycle
-/wiki/Computer Science /wiki/Enterprise_Unified_Process
-/wiki/Computer Science /wiki/Executable_UML
-/wiki/Computer Science /wiki/Incremental_build_model
-/wiki/Computer Science /wiki/Iterative_and_incremental_development
-/wiki/Computer Science /wiki/Software_prototyping
-/wiki/Computer Science /wiki/Rapid_application_development
-/wiki/Computer Science /wiki/Unified_Process
-/wiki/Computer Science /wiki/Scrum_(software_development)
-/wiki/Computer Science /wiki/Spiral_model
-/wiki/Computer Science /wiki/V-Model_(software_development)
-/wiki/Computer Science /wiki/Waterfall_model
-/wiki/Computer Science /wiki/Extreme_programming
-/wiki/Computer Science /wiki/ISO/IEC_15504
-/wiki/Computer Science /wiki/Capability_Maturity_Model_Integration
-/wiki/Computer Science /wiki/Data_model
-/wiki/Computer Science /wiki/Entity%E2%80%93relationship_model
-/wiki/Computer Science /wiki/Function_model
-/wiki/Computer Science /wiki/Information_model
-/wiki/Computer Science /wiki/Metamodeling
-/wiki/Computer Science /wiki/Object_model
-/wiki/Computer Science /wiki/Systems_modeling
-/wiki/Computer Science /wiki/View_model
-/wiki/Computer Science /wiki/IDEF
-/wiki/Computer Science /wiki/Unified_Modeling_Language
-/wiki/Computer Science /wiki/Systems_Modeling_Language
-/wiki/Computer Science /wiki/Victor_Basili
-/wiki/Computer Science /wiki/Kent_Beck
-/wiki/Computer Science /wiki/Grady_Booch
-/wiki/Computer Science /wiki/Fred_Brooks
-/wiki/Computer Science /wiki/Barry_Boehm
-/wiki/Computer Science /wiki/Ward_Cunningham
-/wiki/Computer Science /wiki/Tom_DeMarco
-/wiki/Computer Science /wiki/Martin_Fowler
-/wiki/Computer Science /wiki/Tony_Hoare
-/wiki/Computer Science /wiki/Watts_Humphrey
-/wiki/Computer Science /wiki/Michael_A._Jackson
-/wiki/Computer Science /wiki/Ivar_Jacobson
-/wiki/Computer Science /wiki/Stephen_J._Mellor
-/wiki/Computer Science /wiki/Winston_W._Royce
-/wiki/Computer Science /wiki/James_Rumbaugh
-/wiki/Computer Science /wiki/Niklaus_Wirth
-/wiki/Computer Science /wiki/Edward_Yourdon
-/wiki/Computer Science /wiki/Mohamed_Fayad
-/wiki/Computer Science /wiki/Project_management
-/wiki/Computer Science /wiki/Risk_management
-/wiki/Computer Science /wiki/Systems_engineering
-/wiki/Computer Science /wiki/ACM_Computing_Classification_System
-/wiki/Computer Science /wiki/Printed_circuit_board
-/wiki/Computer Science /wiki/Peripheral
-/wiki/Computer Science /wiki/Very-large-scale_integration
-/wiki/Computer Science /wiki/Green_computing
-/wiki/Computer Science /wiki/Electronic_design_automation
-/wiki/Computer Science /wiki/Embedded_system
-/wiki/Computer Science /wiki/Real-time_computing
-/wiki/Computer Science /wiki/Dependability
-/wiki/Computer Science /wiki/Network_architecture
-/wiki/Computer Science /wiki/Network_protocol
-/wiki/Computer Science /wiki/Networking_hardware
-/wiki/Computer Science /wiki/Network_scheduler
-/wiki/Computer Science /wiki/Network_performance
-/wiki/Computer Science /wiki/Network_service
-/wiki/Computer Science /wiki/Interpreter_(computing)
-/wiki/Computer Science /wiki/Middleware
-/wiki/Computer Science /wiki/Virtual_machine
-/wiki/Computer Science /wiki/Programming_tool
-/wiki/Computer Science /wiki/Domain-specific_language
-/wiki/Computer Science /wiki/Software_framework
-/wiki/Computer Science /wiki/Integrated_development_environment
-/wiki/Computer Science /wiki/Library_(computing)
-/wiki/Computer Science /wiki/Software_repository
-/wiki/Computer Science /wiki/Requirements_analysis
-/wiki/Computer Science /wiki/Software_construction
-/wiki/Computer Science /wiki/Programming_team
-/wiki/Computer Science /wiki/Open-source_software
-/wiki/Computer Science /wiki/Model_of_computation
-/wiki/Computer Science /wiki/Semantics_(computer_science)
-/wiki/Computer Science /wiki/Algorithm_design
-/wiki/Computer Science /wiki/Randomized_algorithm
-/wiki/Computer Science /wiki/Discrete_mathematics
-/wiki/Computer Science /wiki/Probability
-/wiki/Computer Science /wiki/Mathematical_software
-/wiki/Computer Science /wiki/Mathematical_analysis
-/wiki/Computer Science /wiki/Database_management_system
-/wiki/Computer Science /wiki/Computer_data_storage
-/wiki/Computer Science /wiki/Enterprise_information_system
-/wiki/Computer Science /wiki/Social_software
-/wiki/Computer Science /wiki/Geographic_information_system
-/wiki/Computer Science /wiki/Decision_support_system
-/wiki/Computer Science /wiki/Process_control
-/wiki/Computer Science /wiki/Multimedia_database
-/wiki/Computer Science /wiki/Digital_library
-/wiki/Computer Science /wiki/Computing_platform
-/wiki/Computer Science /wiki/Digital_marketing
-/wiki/Computer Science /wiki/World_Wide_Web
-/wiki/Computer Science /wiki/Information_retrieval
-/wiki/Computer Science /wiki/Security_service_(telecommunication)
-/wiki/Computer Science /wiki/Intrusion_detection_system
-/wiki/Computer Science /wiki/Computer_security_compromised_by_hardware_failure
-/wiki/Computer Science /wiki/Network_security
-/wiki/Computer Science /wiki/Information_security
-/wiki/Computer Science /wiki/Application_security
-/wiki/Computer Science /wiki/Interaction_design
-/wiki/Computer Science /wiki/Social_computing
-/wiki/Computer Science /wiki/Visualization_(computer_graphics)
-/wiki/Computer Science /wiki/Concurrent_computing
-/wiki/Computer Science /wiki/Parallel_computing
-/wiki/Computer Science /wiki/Multithreading_(computer_architecture)
-/wiki/Computer Science /wiki/Knowledge_representation_and_reasoning
-/wiki/Computer Science /wiki/Automated_planning_and_scheduling
-/wiki/Computer Science /wiki/Mathematical_optimization
-/wiki/Computer Science /wiki/Control_theory
-/wiki/Computer Science /wiki/Philosophy_of_artificial_intelligence
-/wiki/Computer Science /wiki/Distributed_artificial_intelligence
-/wiki/Computer Science /wiki/Outline_of_machine_learning
-/wiki/Computer Science /wiki/Supervised_learning
-/wiki/Computer Science /wiki/Unsupervised_learning
-/wiki/Computer Science /wiki/Reinforcement_learning
-/wiki/Computer Science /wiki/Multi-task_learning
-/wiki/Computer Science /wiki/Cross-validation_(statistics)
-/wiki/Computer Science /wiki/Computer_animation
-/wiki/Computer Science /wiki/Rendering_(computer_graphics)
-/wiki/Computer Science /wiki/Photo_manipulation
-/wiki/Computer Science /wiki/Graphics_processing_unit
-/wiki/Computer Science /wiki/Mixed_reality
-/wiki/Computer Science /wiki/Image_compression
-/wiki/Computer Science /wiki/Solid_modeling
-/wiki/Computer Science /wiki/E-commerce
-/wiki/Computer Science /wiki/Enterprise_software
-/wiki/Computer Science /wiki/Computational_mathematics
-/wiki/Computer Science /wiki/Computational_biology
-/wiki/Computer Science /wiki/Computational_social_science
-/wiki/Computer Science /wiki/Computational_engineering
-/wiki/Computer Science /wiki/Health_informatics
-/wiki/Computer Science /wiki/Digital_art
-/wiki/Computer Science /wiki/Electronic_publishing
-/wiki/Computer Science /wiki/Cyberwarfare
-/wiki/Computer Science /wiki/Electronic_voting
-/wiki/Computer Science /wiki/Word_processor
-/wiki/Computer Science /wiki/Operations_research
-/wiki/Computer Science /wiki/Educational_technology
-/wiki/Computer Science /wiki/Document_management_system
-/wiki/Computer Science /wiki/Technology
-/wiki/Computer Science /wiki/Outline_of_technology
-/wiki/Computer Science /wiki/Outline_of_applied_science
-/wiki/Computer Science /wiki/Agriculture
-/wiki/Computer Science /wiki/Agricultural_engineering
-/wiki/Computer Science /wiki/Aquaculture
-/wiki/Computer Science /wiki/Fisheries_science
-/wiki/Computer Science /wiki/Food_chemistry
-/wiki/Computer Science /wiki/Food_engineering
-/wiki/Computer Science /wiki/Food_microbiology
-/wiki/Computer Science /wiki/Food_technology
-/wiki/Computer Science /wiki/Genetic_use_restriction_technology
-/wiki/Computer Science /wiki/ICT_in_agriculture
-/wiki/Computer Science /wiki/Nutrition
-/wiki/Computer Science /wiki/Biomedical_technology
-/wiki/Computer Science /wiki/Biological_engineering
-/wiki/Computer Science /wiki/Biomechatronics
-/wiki/Computer Science /wiki/Biomedical_engineering
-/wiki/Computer Science /wiki/Biotechnology
-/wiki/Computer Science /wiki/Cheminformatics
-/wiki/Computer Science /wiki/Genetic_engineering
-/wiki/Computer Science /wiki/Healthcare_science
-/wiki/Computer Science /wiki/Medical_research
-/wiki/Computer Science /wiki/Medical_technology
-/wiki/Computer Science /wiki/Nanomedicine
-/wiki/Computer Science /wiki/Neuroscience
-/wiki/Computer Science /wiki/Neurotechnology
-/wiki/Computer Science /wiki/Pharmacology
-/wiki/Computer Science /wiki/Reproductive_technology
-/wiki/Computer Science /wiki/Tissue_engineering
-/wiki/Computer Science /wiki/Architecture
-/wiki/Computer Science /wiki/Construction
-/wiki/Computer Science /wiki/Acoustical_engineering
-/wiki/Computer Science /wiki/Architectural_engineering
-/wiki/Computer Science /wiki/Building_services_engineering
+/wiki/Computer_Science /wiki/Computer
+/wiki/Computer_Science /wiki/Computation
+/wiki/Computer_Science /wiki/Procedure_(computer_science)
+/wiki/Computer_Science /wiki/Algorithm
+/wiki/Computer_Science /wiki/Information
+/wiki/Computer_Science /wiki/Computer_scientist
+/wiki/Computer_Science /wiki/Practical_disciplines
+/wiki/Computer_Science /wiki/Computational_complexity_theory
+/wiki/Computer_Science /wiki/Computational_problem
+/wiki/Computer_Science /wiki/Computer_graphics_(computer_science)
+/wiki/Computer_Science /wiki/Programming_language_theory
+/wiki/Computer_Science /wiki/Computer_programming
+/wiki/Computer_Science /wiki/Programming_language
+/wiki/Computer_Science /wiki/Complex_systems
+/wiki/Computer_Science /wiki/Human%E2%80%93computer_interaction
+/wiki/Computer_Science /wiki/Computer_accessibility
+/wiki/Computer_Science /wiki/Human
+/wiki/Computer_Science /wiki/History_of_computer_science
+/wiki/Computer_Science /wiki/History_of_computing
+/wiki/Computer_Science /wiki/Computer_hardware
+/wiki/Computer_Science /wiki/History_of_computing_hardware
+/wiki/Computer_Science /wiki/History_of_computing_hardware_(1960s%E2%80%93present)
+/wiki/Computer_Science /wiki/History_of_computer_hardware_in_Soviet_Bloc_countries
+/wiki/Computer_Science /wiki/Software
+/wiki/Computer_Science /wiki/History_of_software
+/wiki/Computer_Science /wiki/History_of_Unix
+/wiki/Computer_Science /wiki/History_of_free_and_open-source_software
+/wiki/Computer_Science /wiki/History_of_artificial_intelligence
+/wiki/Computer_Science /wiki/History_of_compiler_construction
+/wiki/Computer_Science /wiki/History_of_operating_systems
+/wiki/Computer_Science /wiki/History_of_programming_languages
+/wiki/Computer_Science /wiki/List_of_pioneers_in_computer_science
+/wiki/Computer_Science /wiki/History_of_software_engineering
+/wiki/Computer_Science /wiki/History_of_the_graphical_user_interface
+/wiki/Computer_Science /wiki/History_of_the_Internet
+/wiki/Computer_Science /wiki/History_of_personal_computers
+/wiki/Computer_Science /wiki/History_of_laptops
+/wiki/Computer_Science /wiki/History_of_video_games
+/wiki/Computer_Science /wiki/History_of_the_World_Wide_Web
+/wiki/Computer_Science /wiki/Timeline_of_computing
+/wiki/Computer_Science /wiki/Timeline_of_computing_hardware_2400_BC%E2%80%931949
+/wiki/Computer_Science /wiki/Timeline_of_computing_1950%E2%80%9379
+/wiki/Computer_Science /wiki/Timeline_of_computing_1980%E2%80%9389
+/wiki/Computer_Science /wiki/Timeline_of_computing_1990%E2%80%9399
+/wiki/Computer_Science /wiki/Timeline_of_computing_2000%E2%80%9309
+/wiki/Computer_Science /wiki/Timeline_of_computing_2010%E2%80%9319
+/wiki/Computer_Science /wiki/Charles_Babbage
+/wiki/Computer_Science /wiki/Ada_Lovelace
+/wiki/Computer_Science /wiki/Digital_computer
+/wiki/Computer_Science /wiki/Abacus
+/wiki/Computer_Science /wiki/Wilhelm_Schickard
+/wiki/Computer_Science /wiki/Mechanical_calculator
+/wiki/Computer_Science /wiki/Gottfried_Leibniz
+/wiki/Computer_Science /wiki/Stepped_Reckoner
+/wiki/Computer_Science /wiki/Charles_Xavier_Thomas
+/wiki/Computer_Science /wiki/Arithmometer
+/wiki/Computer_Science /wiki/Difference_Engine
+/wiki/Computer_Science /wiki/Analytical_Engine
+/wiki/Computer_Science /wiki/Jacquard_loom
+/wiki/Computer_Science /wiki/Bernoulli_number
+/wiki/Computer_Science /wiki/Herman_Hollerith
+/wiki/Computer_Science /wiki/Tabulating_machine
+/wiki/Computer_Science /wiki/Punched_card
+/wiki/Computer_Science /wiki/IBM
+/wiki/Computer_Science /wiki/Howard_H._Aiken
+/wiki/Computer_Science /wiki/Harvard_Mark_I
+/wiki/Computer_Science /wiki/Computing
+/wiki/Computer_Science /wiki/Cambridge_Diploma_in_Computer_Science
+/wiki/Computer_Science /wiki/University_of_Cambridge
+/wiki/Computer_Science /wiki/Cambridge_Computer_Lab
+/wiki/Computer_Science /wiki/Purdue_University
+/wiki/Computer_Science /wiki/Computing_technology
+/wiki/Computer_Science /wiki/History_of_informatics
+/wiki/Computer_Science /wiki/Germany
+/wiki/Computer_Science /wiki/Enigma_machine
+/wiki/Computer_Science /wiki/World_War_II
+/wiki/Computer_Science /wiki/Bletchley_Park
+/wiki/Computer_Science /wiki/Science
+/wiki/Computer_Science /wiki/Society
+/wiki/Computer_Science /wiki/Electronics
+/wiki/Computer_Science /wiki/Information_Age
+/wiki/Computer_Science /wiki/Information_revolution
+/wiki/Computer_Science /wiki/Industrial_Revolution
+/wiki/Computer_Science /wiki/Neolithic_Revolution
+/wiki/Computer_Science /wiki/Digital_Revolution
+/wiki/Computer_Science /wiki/Internet
+/wiki/Computer_Science /wiki/Computability
+/wiki/Computer_Science /wiki/Undecidable_problem
+/wiki/Computer_Science /wiki/Cryptography
+/wiki/Computer_Science /wiki/Cryptanalysis_of_the_Enigma
+/wiki/Computer_Science /wiki/Computational_science
+/wiki/Computer_Science /wiki/Human_Genome_Project
+/wiki/Computer_Science /wiki/Distributed_computing
+/wiki/Computer_Science /wiki/Folding@home
+/wiki/Computer_Science /wiki/Protein_folding
+/wiki/Computer_Science /wiki/Algorithmic_trading
+/wiki/Computer_Science /wiki/Economic_efficiency
+/wiki/Computer_Science /wiki/Market_liquidity
+/wiki/Computer_Science /wiki/Artificial_intelligence
+/wiki/Computer_Science /wiki/Machine_learning
+/wiki/Computer_Science /wiki/Statistics
+/wiki/Computer_Science /wiki/Numerical_analysis
+/wiki/Computer_Science /wiki/Volatility_(finance)
+/wiki/Computer_Science /wiki/Computer_graphics
+/wiki/Computer_Science /wiki/Computer-generated_imagery
+/wiki/Computer_Science /wiki/Entertainment
+/wiki/Computer_Science /wiki/Television
+/wiki/Computer_Science /wiki/Filmmaking
+/wiki/Computer_Science /wiki/Advertising
+/wiki/Computer_Science /wiki/Animation
+/wiki/Computer_Science /wiki/Video_game
+/wiki/Computer_Science /wiki/Digital_camera
+/wiki/Computer_Science /wiki/Video_editing
+/wiki/Computer_Science /wiki/Video_post-processing
+/wiki/Computer_Science /wiki/Simulation
+/wiki/Computer_Science /wiki/Fluid_dynamics
+/wiki/Computer_Science /wiki/SPICE
+/wiki/Computer_Science /wiki/Integrated_circuit
+/wiki/Computer_Science /wiki/Robotic_vacuum_cleaner
+/wiki/Computer_Science /wiki/Legged_Squad_Support_System
+/wiki/Computer_Science /wiki/Human-Computer_Interaction
+/wiki/Computer_Science /wiki/Direct_manipulation
+/wiki/Computer_Science /wiki/Touchscreen
+/wiki/Computer_Science /wiki/Virtual_reality
+/wiki/Computer_Science /wiki/Communications_of_the_ACM
+/wiki/Computer_Science /wiki/Harvard_Business_School
+/wiki/Computer_Science /wiki/Management_science
+/wiki/Computer_Science /wiki/George_Forsythe
+/wiki/Computer_Science /wiki/Peter_Naur
+/wiki/Computer_Science /wiki/Data_science
+/wiki/Computer_Science /wiki/Epistemology
+/wiki/Computer_Science /wiki/Slavic_languages
+/wiki/Computer_Science /wiki/Hungarian_language
+/wiki/Computer_Science /wiki/Greek_language
+/wiki/Computer_Science /wiki/Informatics
+/wiki/Computer_Science /wiki/Edsger_W._Dijkstra
+/wiki/Computer_Science /wiki/Computer_engineering
+/wiki/Computer_Science /wiki/Computer_system
+/wiki/Computer_Science /wiki/Information_technology
+/wiki/Computer_Science /wiki/Information_system
+/wiki/Computer_Science /wiki/Philosophy
+/wiki/Computer_Science /wiki/Cognitive_science
+/wiki/Computer_Science /wiki/Computational_linguistics
+/wiki/Computer_Science /wiki/Mathematics
+/wiki/Computer_Science /wiki/Physics
+/wiki/Computer_Science /wiki/Biology
+/wiki/Computer_Science /wiki/Computational_statistics
+/wiki/Computer_Science /wiki/Logic
+/wiki/Computer_Science /wiki/Kurt_G%C3%B6del
+/wiki/Computer_Science /wiki/Alan_Turing
+/wiki/Computer_Science /wiki/Mathematical_logic
+/wiki/Computer_Science /wiki/Category_theory
+/wiki/Computer_Science /wiki/Domain_theory
+/wiki/Computer_Science /wiki/Algebra
+/wiki/Computer_Science /wiki/Software_engineering
+/wiki/Computer_Science /wiki/David_Parnas
+/wiki/Computer_Science /wiki/Philosophy_of_computer_science
+/wiki/Computer_Science /wiki/Peter_Wegner
+/wiki/Computer_Science /wiki/Peter_J._Denning
+/wiki/Computer_Science /wiki/Deductive_reasoning
+/wiki/Computer_Science /wiki/Engineering
+/wiki/Computer_Science /wiki/Natural_science
+/wiki/Computer_Science /wiki/Outline_of_computer_science
+/wiki/Computer_Science /wiki/CSAB_(professional_organization)
+/wiki/Computer_Science /wiki/Association_for_Computing_Machinery
+/wiki/Computer_Science /wiki/IEEE_Computer_Society
+/wiki/Computer_Science /wiki/Theoretical_computer_science
+/wiki/Computer_Science /wiki/Theory_of_computation
+/wiki/Computer_Science /wiki/Computability_theory
+/wiki/Computer_Science /wiki/Models_of_computation
+/wiki/Computer_Science /wiki/P_versus_NP_problem
+/wiki/Computer_Science /wiki/Millennium_Prize_Problems
+/wiki/Computer_Science /wiki/Automata_theory
+/wiki/Computer_Science /wiki/Quantum_computer
+/wiki/Computer_Science /wiki/Information_theory
+/wiki/Computer_Science /wiki/Coding_theory
+/wiki/Computer_Science /wiki/Claude_Shannon
+/wiki/Computer_Science /wiki/Signal_processing
+/wiki/Computer_Science /wiki/Code
+/wiki/Computer_Science /wiki/Data_compression
+/wiki/Computer_Science /wiki/Error_detection_and_correction
+/wiki/Computer_Science /wiki/Linear_network_coding
+/wiki/Computer_Science /wiki/Data_transmission
+/wiki/Computer_Science /wiki/Analysis_of_algorithms
+/wiki/Computer_Science /wiki/Data_structures
+/wiki/Computer_Science /wiki/Combinatorial_optimization
+/wiki/Computer_Science /wiki/Computational_geometry
+/wiki/Computer_Science /wiki/Linguistics
+/wiki/Computer_Science /wiki/Type_theory
+/wiki/Computer_Science /wiki/Compiler_construction
+/wiki/Computer_Science /wiki/Formal_methods
+/wiki/Computer_Science /wiki/Formal_specification
+/wiki/Computer_Science /wiki/Formal_verification
+/wiki/Computer_Science /wiki/Life-critical_system
+/wiki/Computer_Science /wiki/Safety
+/wiki/Computer_Science /wiki/Computer_security
+/wiki/Computer_Science /wiki/Logic_in_computer_science
+/wiki/Computer_Science /wiki/Formal_language
+/wiki/Computer_Science /wiki/Program_semantics
+/wiki/Computer_Science /wiki/Type_systems
+/wiki/Computer_Science /wiki/Algebraic_data_types
+/wiki/Computer_Science /wiki/Cybernetics
+/wiki/Computer_Science /wiki/Applied_mathematics
+/wiki/Computer_Science /wiki/Semiotics
+/wiki/Computer_Science /wiki/Electrical_engineering
+/wiki/Computer_Science /wiki/Philosophy_of_mind
+/wiki/Computer_Science /wiki/Neurophysiology
+/wiki/Computer_Science /wiki/Social_intelligence
+/wiki/Computer_Science /wiki/Robotics
+/wiki/Computer_Science /wiki/Software_development
+/wiki/Computer_Science /wiki/Turing_test
+/wiki/Computer_Science /wiki/Computer_vision
+/wiki/Computer_Science /wiki/Image_processing
+/wiki/Computer_Science /wiki/Pattern_recognition
+/wiki/Computer_Science /wiki/Data_mining
+/wiki/Computer_Science /wiki/Evolutionary_computation
+/wiki/Computer_Science /wiki/Knowledge_representation
+/wiki/Computer_Science /wiki/Natural_language_processing
+/wiki/Computer_Science /wiki/Computer_architecture
+/wiki/Computer_Science /wiki/Boolean_algebra
+/wiki/Computer_Science /wiki/Microarchitecture
+/wiki/Computer_Science /wiki/Multiprocessing
+/wiki/Computer_Science /wiki/Ubiquitous_computing
+/wiki/Computer_Science /wiki/Systems_architecture
+/wiki/Computer_Science /wiki/Operating_system
+/wiki/Computer_Science /wiki/Computer_performance
+/wiki/Computer_Science /wiki/Throughput
+/wiki/Computer_Science /wiki/Response_time_(technology)
+/wiki/Computer_Science /wiki/Bottleneck_(software)
+/wiki/Computer_Science /wiki/Special_effects
+/wiki/Computer_Science /wiki/Video_games
+/wiki/Computer_Science /wiki/Scientific_computing
+/wiki/Computer_Science /wiki/Scientific_modelling
+/wiki/Computer_Science /wiki/Computer_simulation
+/wiki/Computer_Science /wiki/Computational_physics
+/wiki/Computer_Science /wiki/Computational_chemistry
+/wiki/Computer_Science /wiki/Bioinformatics
+/wiki/Computer_Science /wiki/Computer_network
+/wiki/Computer_Science /wiki/Concurrency_(computer_science)
+/wiki/Computer_Science /wiki/Petri_net
+/wiki/Computer_Science /wiki/Process_calculus
+/wiki/Computer_Science /wiki/Parallel_random-access_machine
+/wiki/Computer_Science /wiki/Database
+/wiki/Computer_Science /wiki/Database_model
+/wiki/Computer_Science /wiki/Query_language
+/wiki/Computer_Science /wiki/Human-computer_interaction
+/wiki/Computer_Science /wiki/William_J._Rapaport
+/wiki/Computer_Science /wiki/Gottfried_Wilhelm_Leibniz
+/wiki/Computer_Science /wiki/George_Boole
+/wiki/Computer_Science /wiki/Samuel_Morse
+/wiki/Computer_Science /wiki/Digital_physics
+/wiki/Computer_Science /wiki/Turing_machine
+/wiki/Computer_Science /wiki/Corrado_B%C3%B6hm
+/wiki/Computer_Science /wiki/Goto
+/wiki/Computer_Science /wiki/Structured_programming
+/wiki/Computer_Science /wiki/List_of_computer_science_conferences
+/wiki/Computer_Science /wiki/Proceedings
+/wiki/Computer_Science /wiki/Code.org
+/wiki/Computer_Science /wiki/Malaysia
+/wiki/Computer_Science /wiki/Guyana
+/wiki/Computer_Science /wiki/Academic_genealogy_of_computer_scientists
+/wiki/Computer_Science /wiki/Computer_Science_Teachers_Association
+/wiki/Computer_Science /wiki/Engineering_informatics
+/wiki/Computer_Science /wiki/List_of_academic_computer_science_departments
+/wiki/Computer_Science /wiki/List_of_computer_scientists
+/wiki/Computer_Science /wiki/List_of_important_publications_in_computer_science
+/wiki/Computer_Science /wiki/List_of_unsolved_problems_in_computer_science
+/wiki/Computer_Science /wiki/Outline_of_software_engineering
+/wiki/Computer_Science /wiki/Technology_transfer_in_computer_science
+/wiki/Computer_Science /wiki/Turing_Award
+/wiki/Computer_Science /wiki/Steven_Levy
+/wiki/Computer_Science /wiki/International_Standard_Book_Number
+/wiki/Computer_Science /wiki/David_Kahn_(writer)
+/wiki/Computer_Science /wiki/The_Codebreakers
+/wiki/Computer_Science /wiki/Hal_Abelson
+/wiki/Computer_Science /wiki/Structure_and_Interpretation_of_Computer_Programs
+/wiki/Computer_Science /wiki/Digital_object_identifier
+/wiki/Computer_Science /wiki/Social_Science_Research_Network
+/wiki/Computer_Science /wiki/Donald_Knuth
+/wiki/Computer_Science /wiki/Wayback_Machine
+/wiki/Computer_Science /wiki/Minds_and_Machines
+/wiki/Computer_Science /wiki/CreateSpace
+/wiki/Computer_Science /wiki/Zentralblatt_MATH
+/wiki/Computer_Science /wiki/Jan_van_Leeuwen
+/wiki/Computer_Science /wiki/SIGACT_News
+/wiki/Computer_Science /wiki/Anthony_Ralston
+/wiki/Computer_Science /wiki/Cambridge_University_Press
+/wiki/Computer_Science /wiki/Taylor_%26_Francis
+/wiki/Computer_Science /wiki/Brian_Randell
+/wiki/Computer_Science /wiki/Association_for_Information_Systems
+/wiki/Computer_Science /wiki/Norman_Gibbs
+/wiki/Computer_Science /wiki/Allen_Tucker
+/wiki/Computer_Science /wiki/DMOZ
+/wiki/Computer_Science /wiki/Bertrand_Meyer
+/wiki/Computer_Science /wiki/CiteSeerX
+/wiki/Computer_Science /wiki/Digital_Bibliography_%26_Library_Project
+/wiki/Computer_Science /wiki/Collection_of_Computer_Science_Bibliographies
+/wiki/Computer_Science /wiki/Requirements_engineering
+/wiki/Computer_Science /wiki/Software_deployment
+/wiki/Computer_Science /wiki/Software_design
+/wiki/Computer_Science /wiki/Software_maintenance
+/wiki/Computer_Science /wiki/Software_testing
+/wiki/Computer_Science /wiki/Systems_analysis
+/wiki/Computer_Science /wiki/Data_modeling
+/wiki/Computer_Science /wiki/Enterprise_architecture
+/wiki/Computer_Science /wiki/Functional_specification
+/wiki/Computer_Science /wiki/Modeling_language
+/wiki/Computer_Science /wiki/Orthogonality_(programming)
+/wiki/Computer_Science /wiki/Programming_paradigm
+/wiki/Computer_Science /wiki/Software_archaeology
+/wiki/Computer_Science /wiki/Software_architecture
+/wiki/Computer_Science /wiki/Software_configuration_management
+/wiki/Computer_Science /wiki/Software_development_process
+/wiki/Computer_Science /wiki/Software_quality
+/wiki/Computer_Science /wiki/Software_quality_assurance
+/wiki/Computer_Science /wiki/Software_verification_and_validation
+/wiki/Computer_Science /wiki/Structured_analysis
+/wiki/Computer_Science /wiki/Agile_software_development
+/wiki/Computer_Science /wiki/Aspect-oriented_software_development
+/wiki/Computer_Science /wiki/Object-oriented_programming
+/wiki/Computer_Science /wiki/Ontology_(information_science)
+/wiki/Computer_Science /wiki/Service-oriented_architecture
+/wiki/Computer_Science /wiki/Systems_development_life_cycle
+/wiki/Computer_Science /wiki/Enterprise_Unified_Process
+/wiki/Computer_Science /wiki/Executable_UML
+/wiki/Computer_Science /wiki/Incremental_build_model
+/wiki/Computer_Science /wiki/Iterative_and_incremental_development
+/wiki/Computer_Science /wiki/Software_prototyping
+/wiki/Computer_Science /wiki/Rapid_application_development
+/wiki/Computer_Science /wiki/Unified_Process
+/wiki/Computer_Science /wiki/Scrum_(software_development)
+/wiki/Computer_Science /wiki/Spiral_model
+/wiki/Computer_Science /wiki/V-Model_(software_development)
+/wiki/Computer_Science /wiki/Waterfall_model
+/wiki/Computer_Science /wiki/Extreme_programming
+/wiki/Computer_Science /wiki/ISO/IEC_15504
+/wiki/Computer_Science /wiki/Capability_Maturity_Model_Integration
+/wiki/Computer_Science /wiki/Data_model
+/wiki/Computer_Science /wiki/Entity%E2%80%93relationship_model
+/wiki/Computer_Science /wiki/Function_model
+/wiki/Computer_Science /wiki/Information_model
+/wiki/Computer_Science /wiki/Metamodeling
+/wiki/Computer_Science /wiki/Object_model
+/wiki/Computer_Science /wiki/Systems_modeling
+/wiki/Computer_Science /wiki/View_model
+/wiki/Computer_Science /wiki/IDEF
+/wiki/Computer_Science /wiki/Unified_Modeling_Language
+/wiki/Computer_Science /wiki/Systems_Modeling_Language
+/wiki/Computer_Science /wiki/Victor_Basili
+/wiki/Computer_Science /wiki/Kent_Beck
+/wiki/Computer_Science /wiki/Grady_Booch
+/wiki/Computer_Science /wiki/Fred_Brooks
+/wiki/Computer_Science /wiki/Barry_Boehm
+/wiki/Computer_Science /wiki/Ward_Cunningham
+/wiki/Computer_Science /wiki/Tom_DeMarco
+/wiki/Computer_Science /wiki/Martin_Fowler
+/wiki/Computer_Science /wiki/Tony_Hoare
+/wiki/Computer_Science /wiki/Watts_Humphrey
+/wiki/Computer_Science /wiki/Michael_A._Jackson
+/wiki/Computer_Science /wiki/Ivar_Jacobson
+/wiki/Computer_Science /wiki/Stephen_J._Mellor
+/wiki/Computer_Science /wiki/Winston_W._Royce
+/wiki/Computer_Science /wiki/James_Rumbaugh
+/wiki/Computer_Science /wiki/Niklaus_Wirth
+/wiki/Computer_Science /wiki/Edward_Yourdon
+/wiki/Computer_Science /wiki/Mohamed_Fayad
+/wiki/Computer_Science /wiki/Project_management
+/wiki/Computer_Science /wiki/Risk_management
+/wiki/Computer_Science /wiki/Systems_engineering
+/wiki/Computer_Science /wiki/ACM_Computing_Classification_System
+/wiki/Computer_Science /wiki/Printed_circuit_board
+/wiki/Computer_Science /wiki/Peripheral
+/wiki/Computer_Science /wiki/Very-large-scale_integration
+/wiki/Computer_Science /wiki/Green_computing
+/wiki/Computer_Science /wiki/Electronic_design_automation
+/wiki/Computer_Science /wiki/Embedded_system
+/wiki/Computer_Science /wiki/Real-time_computing
+/wiki/Computer_Science /wiki/Dependability
+/wiki/Computer_Science /wiki/Network_architecture
+/wiki/Computer_Science /wiki/Network_protocol
+/wiki/Computer_Science /wiki/Networking_hardware
+/wiki/Computer_Science /wiki/Network_scheduler
+/wiki/Computer_Science /wiki/Network_performance
+/wiki/Computer_Science /wiki/Network_service
+/wiki/Computer_Science /wiki/Interpreter_(computing)
+/wiki/Computer_Science /wiki/Middleware
+/wiki/Computer_Science /wiki/Virtual_machine
+/wiki/Computer_Science /wiki/Programming_tool
+/wiki/Computer_Science /wiki/Domain-specific_language
+/wiki/Computer_Science /wiki/Software_framework
+/wiki/Computer_Science /wiki/Integrated_development_environment
+/wiki/Computer_Science /wiki/Library_(computing)
+/wiki/Computer_Science /wiki/Software_repository
+/wiki/Computer_Science /wiki/Requirements_analysis
+/wiki/Computer_Science /wiki/Software_construction
+/wiki/Computer_Science /wiki/Programming_team
+/wiki/Computer_Science /wiki/Open-source_software
+/wiki/Computer_Science /wiki/Model_of_computation
+/wiki/Computer_Science /wiki/Semantics_(computer_science)
+/wiki/Computer_Science /wiki/Algorithm_design
+/wiki/Computer_Science /wiki/Randomized_algorithm
+/wiki/Computer_Science /wiki/Discrete_mathematics
+/wiki/Computer_Science /wiki/Probability
+/wiki/Computer_Science /wiki/Mathematical_software
+/wiki/Computer_Science /wiki/Mathematical_analysis
+/wiki/Computer_Science /wiki/Database_management_system
+/wiki/Computer_Science /wiki/Computer_data_storage
+/wiki/Computer_Science /wiki/Enterprise_information_system
+/wiki/Computer_Science /wiki/Social_software
+/wiki/Computer_Science /wiki/Geographic_information_system
+/wiki/Computer_Science /wiki/Decision_support_system
+/wiki/Computer_Science /wiki/Process_control
+/wiki/Computer_Science /wiki/Multimedia_database
+/wiki/Computer_Science /wiki/Digital_library
+/wiki/Computer_Science /wiki/Computing_platform
+/wiki/Computer_Science /wiki/Digital_marketing
+/wiki/Computer_Science /wiki/World_Wide_Web
+/wiki/Computer_Science /wiki/Information_retrieval
+/wiki/Computer_Science /wiki/Security_service_(telecommunication)
+/wiki/Computer_Science /wiki/Intrusion_detection_system
+/wiki/Computer_Science /wiki/Computer_security_compromised_by_hardware_failure
+/wiki/Computer_Science /wiki/Network_security
+/wiki/Computer_Science /wiki/Information_security
+/wiki/Computer_Science /wiki/Application_security
+/wiki/Computer_Science /wiki/Interaction_design
+/wiki/Computer_Science /wiki/Social_computing
+/wiki/Computer_Science /wiki/Visualization_(computer_graphics)
+/wiki/Computer_Science /wiki/Concurrent_computing
+/wiki/Computer_Science /wiki/Parallel_computing
+/wiki/Computer_Science /wiki/Multithreading_(computer_architecture)
+/wiki/Computer_Science /wiki/Knowledge_representation_and_reasoning
+/wiki/Computer_Science /wiki/Automated_planning_and_scheduling
+/wiki/Computer_Science /wiki/Mathematical_optimization
+/wiki/Computer_Science /wiki/Control_theory
+/wiki/Computer_Science /wiki/Philosophy_of_artificial_intelligence
+/wiki/Computer_Science /wiki/Distributed_artificial_intelligence
+/wiki/Computer_Science /wiki/Outline_of_machine_learning
+/wiki/Computer_Science /wiki/Supervised_learning
+/wiki/Computer_Science /wiki/Unsupervised_learning
+/wiki/Computer_Science /wiki/Reinforcement_learning
+/wiki/Computer_Science /wiki/Multi-task_learning
+/wiki/Computer_Science /wiki/Cross-validation_(statistics)
+/wiki/Computer_Science /wiki/Computer_animation
+/wiki/Computer_Science /wiki/Rendering_(computer_graphics)
+/wiki/Computer_Science /wiki/Photo_manipulation
+/wiki/Computer_Science /wiki/Graphics_processing_unit
+/wiki/Computer_Science /wiki/Mixed_reality
+/wiki/Computer_Science /wiki/Image_compression
+/wiki/Computer_Science /wiki/Solid_modeling
+/wiki/Computer_Science /wiki/E-commerce
+/wiki/Computer_Science /wiki/Enterprise_software
+/wiki/Computer_Science /wiki/Computational_mathematics
+/wiki/Computer_Science /wiki/Computational_biology
+/wiki/Computer_Science /wiki/Computational_social_science
+/wiki/Computer_Science /wiki/Computational_engineering
+/wiki/Computer_Science /wiki/Health_informatics
+/wiki/Computer_Science /wiki/Digital_art
+/wiki/Computer_Science /wiki/Electronic_publishing
+/wiki/Computer_Science /wiki/Cyberwarfare
+/wiki/Computer_Science /wiki/Electronic_voting
+/wiki/Computer_Science /wiki/Word_processor
+/wiki/Computer_Science /wiki/Operations_research
+/wiki/Computer_Science /wiki/Educational_technology
+/wiki/Computer_Science /wiki/Document_management_system
+/wiki/Computer_Science /wiki/Technology
+/wiki/Computer_Science /wiki/Outline_of_technology
+/wiki/Computer_Science /wiki/Outline_of_applied_science
+/wiki/Computer_Science /wiki/Agriculture
+/wiki/Computer_Science /wiki/Agricultural_engineering
+/wiki/Computer_Science /wiki/Aquaculture
+/wiki/Computer_Science /wiki/Fisheries_science
+/wiki/Computer_Science /wiki/Food_chemistry
+/wiki/Computer_Science /wiki/Food_engineering
+/wiki/Computer_Science /wiki/Food_microbiology
+/wiki/Computer_Science /wiki/Food_technology
+/wiki/Computer_Science /wiki/Genetic_use_restriction_technology
+/wiki/Computer_Science /wiki/ICT_in_agriculture
+/wiki/Computer_Science /wiki/Nutrition
+/wiki/Computer_Science /wiki/Biomedical_technology
+/wiki/Computer_Science /wiki/Biological_engineering
+/wiki/Computer_Science /wiki/Biomechatronics
+/wiki/Computer_Science /wiki/Biomedical_engineering
+/wiki/Computer_Science /wiki/Biotechnology
+/wiki/Computer_Science /wiki/Cheminformatics
+/wiki/Computer_Science /wiki/Genetic_engineering
+/wiki/Computer_Science /wiki/Healthcare_science
+/wiki/Computer_Science /wiki/Medical_research
+/wiki/Computer_Science /wiki/Medical_technology
+/wiki/Computer_Science /wiki/Nanomedicine
+/wiki/Computer_Science /wiki/Neuroscience
+/wiki/Computer_Science /wiki/Neurotechnology
+/wiki/Computer_Science /wiki/Pharmacology
+/wiki/Computer_Science /wiki/Reproductive_technology
+/wiki/Computer_Science /wiki/Tissue_engineering
+/wiki/Computer_Science /wiki/Architecture
+/wiki/Computer_Science /wiki/Construction
+/wiki/Computer_Science /wiki/Acoustical_engineering
+/wiki/Computer_Science /wiki/Architectural_engineering
+/wiki/Computer_Science /wiki/Building_services_engineering
 /wiki/Computer /wiki/Computer_programming
 /wiki/Computer /wiki/Boolean_algebra
 /wiki/Computer /wiki/Internet
@@ -1254,6 +1254,7 @@
 /wiki/Complex_systems /wiki/Control_theory
 /wiki/Complex_systems /wiki/Systems_analysis
 /wiki/Complex_systems /wiki/Systems_engineering
+/wiki/Complex_systems /wiki/Edsger_W._Dijkstra
 /wiki/Complex_systems /wiki/Claude_Shannon
 /wiki/Human%E2%80%93computer_interaction /wiki/Association_for_Computing_Machinery
 /wiki/Human%E2%80%93computer_interaction /wiki/Computer_graphics
@@ -1712,8 +1713,8 @@
 /wiki/History_of_computing_hardware /wiki/Information_Age
 /wiki/History_of_computing_hardware /wiki/Timeline_of_computing
 /wiki/History_of_computing_hardware /wiki/List_of_pioneers_in_computer_science
-/wiki/History_of_computing_hardware /wiki/International_Standard_Book_Number
 /wiki/History_of_computing_hardware /wiki/Wayback_Machine
+/wiki/History_of_computing_hardware /wiki/International_Standard_Book_Number
 /wiki/History_of_computing_hardware /wiki/Digital_object_identifier
 /wiki/History_of_computing_hardware /wiki/Brian_Randell
 /wiki/History_of_computing_hardware /wiki/Donald_Knuth
@@ -1977,6 +1978,7 @@
 /wiki/List_of_pioneers_in_computer_science /wiki/Object-oriented_programming
 /wiki/List_of_pioneers_in_computer_science /wiki/Alan_Turing
 /wiki/List_of_pioneers_in_computer_science /wiki/Turing_machine
+/wiki/List_of_pioneers_in_computer_science /wiki/Computer_Science
 /wiki/List_of_pioneers_in_computer_science /wiki/Niklaus_Wirth
 /wiki/List_of_pioneers_in_computer_science /wiki/List_of_computer_scientists
 /wiki/List_of_pioneers_in_computer_science /wiki/Timeline_of_computing
@@ -2558,6 +2560,7 @@
 /wiki/Computing /wiki/Software_engineering
 /wiki/Computing /wiki/Information_technology
 /wiki/Computing /wiki/Association_for_Computing_Machinery
+/wiki/Computing /wiki/Computer_Science
 /wiki/Computing /wiki/History_of_computing
 /wiki/Computing /wiki/Timeline_of_computing
 /wiki/Computing /wiki/History_of_computing_hardware
@@ -2771,6 +2774,7 @@
 /wiki/Computing /wiki/Industrial_Revolution
 /wiki/Computing /wiki/Digital_Revolution
 /wiki/Computing /wiki/Information_Age
+/wiki/Cambridge_Diploma_in_Computer_Science /wiki/Computer_Science
 /wiki/Cambridge_Diploma_in_Computer_Science /wiki/University_of_Cambridge
 /wiki/University_of_Cambridge /wiki/Cambridge_University_Press
 /wiki/University_of_Cambridge /wiki/Applied_mathematics
@@ -2799,6 +2803,7 @@
 /wiki/Computing_technology /wiki/Software_engineering
 /wiki/Computing_technology /wiki/Information_technology
 /wiki/Computing_technology /wiki/Association_for_Computing_Machinery
+/wiki/Computing_technology /wiki/Computer_Science
 /wiki/Computing_technology /wiki/History_of_computing
 /wiki/Computing_technology /wiki/Timeline_of_computing
 /wiki/Computing_technology /wiki/History_of_computing_hardware
@@ -4737,6 +4742,10 @@
 /wiki/Edsger_W._Dijkstra /wiki/Operations_research
 /wiki/Edsger_W._Dijkstra /wiki/Educational_technology
 /wiki/Edsger_W._Dijkstra /wiki/Document_management_system
+/wiki/Edsger_W._Dijkstra /wiki/Database
+/wiki/Edsger_W._Dijkstra /wiki/Complex_systems
+/wiki/Edsger_W._Dijkstra /wiki/Cybernetics
+/wiki/Edsger_W._Dijkstra /wiki/Claude_Shannon
 /wiki/Edsger_W._Dijkstra /wiki/Turing_Award
 /wiki/Computer_engineering /wiki/Electrical_engineering
 /wiki/Computer_engineering /wiki/Computer_hardware
@@ -4957,6 +4966,7 @@
 /wiki/Information_system /wiki/Information_technology
 /wiki/Information_system /wiki/Computation
 /wiki/Information_system /wiki/Algorithm
+/wiki/Information_system /wiki/Computer_Science
 /wiki/Information_system /wiki/Engineering
 /wiki/Information_system /wiki/Mathematics
 /wiki/Information_system /wiki/Cybernetics
@@ -4976,6 +4986,7 @@
 /wiki/Information_system /wiki/Control_theory
 /wiki/Information_system /wiki/Systems_analysis
 /wiki/Information_system /wiki/Systems_engineering
+/wiki/Information_system /wiki/Edsger_W._Dijkstra
 /wiki/Information_system /wiki/Claude_Shannon
 /wiki/Philosophy /wiki/Greek_language
 /wiki/Philosophy /wiki/Physics
@@ -5409,6 +5420,7 @@
 /wiki/Logic /wiki/Computational_linguistics
 /wiki/Logic /wiki/Alan_Turing
 /wiki/Logic /wiki/Logic_in_computer_science
+/wiki/Logic /wiki/Computer_Science
 /wiki/Logic /wiki/ACM_Computing_Classification_System
 /wiki/Logic /wiki/Formal_methods
 /wiki/Logic /wiki/Epistemology
@@ -5443,6 +5455,7 @@
 /wiki/Alan_Turing /wiki/Turing_test
 /wiki/Alan_Turing /wiki/Turing_Award
 /wiki/Alan_Turing /wiki/Association_for_Computing_Machinery
+/wiki/Alan_Turing /wiki/Computer_Science
 /wiki/Alan_Turing /wiki/List_of_pioneers_in_computer_science
 /wiki/Alan_Turing /wiki/Digital_object_identifier
 /wiki/Alan_Turing /wiki/International_Standard_Book_Number
@@ -6539,6 +6552,7 @@
 /wiki/Theoretical_computer_science /wiki/Type_systems
 /wiki/Theoretical_computer_science /wiki/Algebraic_data_types
 /wiki/Theoretical_computer_science /wiki/Discrete_mathematics
+/wiki/Theoretical_computer_science /wiki/Computer_Science
 /wiki/Theoretical_computer_science /wiki/Data_transmission
 /wiki/Theoretical_computer_science /wiki/SIGACT_News
 /wiki/Theoretical_computer_science /wiki/International_Standard_Book_Number
@@ -7391,6 +7405,7 @@
 /wiki/Claude_Shannon /wiki/Complex_systems
 /wiki/Claude_Shannon /wiki/Systems_analysis
 /wiki/Claude_Shannon /wiki/Systems_engineering
+/wiki/Claude_Shannon /wiki/Edsger_W._Dijkstra
 /wiki/Claude_Shannon /wiki/Donald_Knuth
 /wiki/Signal_processing /wiki/Information
 /wiki/Signal_processing /wiki/Numerical_analysis
@@ -8405,6 +8420,7 @@
 /wiki/Cybernetics /wiki/Information_system
 /wiki/Cybernetics /wiki/Operating_system
 /wiki/Cybernetics /wiki/Systems_analysis
+/wiki/Cybernetics /wiki/Edsger_W._Dijkstra
 /wiki/Cybernetics /wiki/Claude_Shannon
 /wiki/Applied_mathematics /wiki/Mathematics
 /wiki/Applied_mathematics /wiki/Science
@@ -8443,10 +8459,10 @@
 /wiki/Applied_mathematics /wiki/Theory_of_computation
 /wiki/Applied_mathematics /wiki/Mathematical_logic
 /wiki/Semiotics /wiki/Greek_language
-/wiki/Semiotics /wiki/Linguistics
 /wiki/Semiotics /wiki/Logic
 /wiki/Semiotics /wiki/Philosophy
 /wiki/Semiotics /wiki/Biology
+/wiki/Semiotics /wiki/Linguistics
 /wiki/Semiotics /wiki/Deductive_reasoning
 /wiki/Semiotics /wiki/Philosophy_of_mind
 /wiki/Semiotics /wiki/Architecture
@@ -9725,6 +9741,7 @@
 /wiki/Operating_system /wiki/Cybernetics
 /wiki/Operating_system /wiki/Systems_analysis
 /wiki/Operating_system /wiki/Systems_engineering
+/wiki/Operating_system /wiki/Edsger_W._Dijkstra
 /wiki/Operating_system /wiki/Claude_Shannon
 /wiki/Operating_system /wiki/ACM_Computing_Classification_System
 /wiki/Operating_system /wiki/Printed_circuit_board
@@ -10836,6 +10853,7 @@
 /wiki/Human-computer_interaction /wiki/Virtual_reality
 /wiki/Human-computer_interaction /wiki/Digital_object_identifier
 /wiki/Human-computer_interaction /wiki/Human%E2%80%93computer_interaction
+/wiki/William_J._Rapaport /wiki/Computer_Science
 /wiki/William_J._Rapaport /wiki/Logic
 /wiki/William_J._Rapaport /wiki/Mathematics
 /wiki/Gottfried_Wilhelm_Leibniz /wiki/Mechanical_calculator
@@ -11238,6 +11256,7 @@
 /wiki/Outline_of_software_engineering /wiki/Tom_DeMarco
 /wiki/Outline_of_software_engineering /wiki/Martin_Fowler
 /wiki/Outline_of_software_engineering /wiki/Greek_language
+/wiki/Outline_of_software_engineering /wiki/Computer_Science
 /wiki/Outline_of_software_engineering /wiki/Information_technology
 /wiki/Outline_of_software_engineering /wiki/Computer_engineering
 /wiki/Outline_of_software_engineering /wiki/Electrical_engineering
@@ -11253,7 +11272,6 @@
 /wiki/Turing_Award /wiki/Association_for_Computing_Machinery
 /wiki/Turing_Award /wiki/Alan_Turing
 /wiki/Turing_Award /wiki/Mathematics
-/wiki/Turing_Award /wiki/University_of_Cambridge
 /wiki/Turing_Award /wiki/Theoretical_computer_science
 /wiki/Turing_Award /wiki/Artificial_intelligence
 /wiki/Turing_Award /wiki/IBM
@@ -11281,6 +11299,7 @@
 /wiki/Turing_Award /wiki/Object-oriented_programming
 /wiki/Turing_Award /wiki/Internet
 /wiki/Turing_Award /wiki/Peter_Naur
+/wiki/Turing_Award /wiki/World_Wide_Web
 /wiki/Turing_Award /wiki/Digital_object_identifier
 /wiki/Turing_Award /wiki/International_Standard_Book_Number
 /wiki/Turing_Award /wiki/Communications_of_the_ACM
@@ -11367,6 +11386,7 @@
 /wiki/Brian_Randell /wiki/International_Standard_Book_Number
 /wiki/Association_for_Information_Systems /wiki/Wayback_Machine
 /wiki/Norman_Gibbs /wiki/Mathematics
+/wiki/Norman_Gibbs /wiki/Computer_Science
 /wiki/Norman_Gibbs /wiki/Purdue_University
 /wiki/DMOZ /wiki/World_Wide_Web
 /wiki/DMOZ /wiki/Ontology_(information_science)
@@ -16564,6 +16584,7 @@
 /wiki/Grady_Booch /wiki/Ivar_Jacobson
 /wiki/Grady_Booch /wiki/James_Rumbaugh
 /wiki/Grady_Booch /wiki/Software_engineering
+/wiki/Grady_Booch /wiki/IEEE_Computer_Society
 /wiki/Grady_Booch /wiki/Association_for_Computing_Machinery
 /wiki/Grady_Booch /wiki/IBM
 /wiki/Grady_Booch /wiki/Computer_programming
@@ -17571,6 +17592,7 @@
 /wiki/Niklaus_Wirth /wiki/Programming_language
 /wiki/Niklaus_Wirth /wiki/Software_engineering
 /wiki/Niklaus_Wirth /wiki/Turing_Award
+/wiki/Niklaus_Wirth /wiki/Computer_Science
 /wiki/Niklaus_Wirth /wiki/Association_for_Computing_Machinery
 /wiki/Niklaus_Wirth /wiki/Software
 /wiki/Niklaus_Wirth /wiki/Computer_hardware
@@ -19292,10 +19314,10 @@
 /wiki/Network_protocol /wiki/Computer_hardware
 /wiki/Network_protocol /wiki/Software
 /wiki/Network_protocol /wiki/Programming_language
-/wiki/Network_protocol /wiki/Internet
 /wiki/Network_protocol /wiki/Algorithm
 /wiki/Network_protocol /wiki/Operating_system
 /wiki/Network_protocol /wiki/Systems_engineering
+/wiki/Network_protocol /wiki/Internet
 /wiki/Network_protocol /wiki/International_Standard_Book_Number
 /wiki/Network_protocol /wiki/Digital_object_identifier
 /wiki/Network_protocol /wiki/History_of_the_Internet
@@ -21121,6 +21143,7 @@
 /wiki/Computer_data_storage /wiki/Throughput
 /wiki/Computer_data_storage /wiki/Computer_network
 /wiki/Computer_data_storage /wiki/Internet
+/wiki/Computer_data_storage /wiki/International_Standard_Book_Number
 /wiki/Computer_data_storage /wiki/Wayback_Machine
 /wiki/Computer_data_storage /wiki/Digital_object_identifier
 /wiki/Enterprise_information_system /wiki/Information_system
@@ -21706,6 +21729,7 @@
 /wiki/Control_theory /wiki/Complex_systems
 /wiki/Control_theory /wiki/Systems_analysis
 /wiki/Control_theory /wiki/Systems_engineering
+/wiki/Control_theory /wiki/Edsger_W._Dijkstra
 /wiki/Control_theory /wiki/Claude_Shannon
 /wiki/Control_theory /wiki/Algebra
 /wiki/Control_theory /wiki/Mathematical_analysis
@@ -22269,6 +22293,7 @@
 /wiki/Operations_research /wiki/Cybernetics
 /wiki/Operations_research /wiki/Systems_analysis
 /wiki/Operations_research /wiki/Systems_engineering
+/wiki/Operations_research /wiki/Edsger_W._Dijkstra
 /wiki/Operations_research /wiki/Claude_Shannon
 /wiki/Operations_research /wiki/Algebra
 /wiki/Operations_research /wiki/Mathematical_analysis
